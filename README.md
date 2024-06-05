@@ -27,14 +27,8 @@ Welcome to my GitHub profile! I'm FlqmeDev, a 12-year-old Minecraft developer an
 
 ### 😄 Fun Facts
 
-- Started making Minecraft mods when I was 10.
+- Started making Minecraft mods when I was 9.
 - Love making Minecraft games more fun for everyone.
 - Dreaming of making my own video game one day.
-
-### ⚡️ Other Stuff
-
-- Favorite Minecraft creature: Enderman.
-- Coolest Minecraft build I've made: A castle with secret rooms!
-- Dream feature for Minecraft: Creating your own characters to play as.
 
 Feel free to check out my projects and say hi! Let's make Minecraft even more awesome together! 🎮🚀
