@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm FlqmeDev, a 12-year-old Minecraft developer an
 
 - Love talking about Minecraft, coding, or anything techie.
 - Feel free to message me or ask about working together!
-- Email me at [Your Email](Flameclient1.0@gmail.com).
+- Email me at [Flameclient1.0@gmail.com](Flameclient1.0@gmail.com).
 
 ### 😄 Fun Facts
 
