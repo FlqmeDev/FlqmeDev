@@ -1,4 +1,3 @@
-## Hey! 👋
 
 Welcome to my GitHub profile! I'm FlqmeDev, a 12-year-old Minecraft developer and coding fan. Here's a bit about me:
 
